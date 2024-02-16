@@ -1,4 +1,5 @@
 import Head from "next/head";
+import './../global.scss'
 
 const App = ({ Component }) => {
     return (
